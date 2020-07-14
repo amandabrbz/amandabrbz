@@ -1,4 +1,6 @@
-### Hi there 👋
+### E aí, tudo bem? 👋
+
+
 
 <!--
 **amandabrbz/amandabrbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
