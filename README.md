@@ -1,5 +1,3 @@
-![undraw thanks for this image, this img contains a girl with various type of devices and kind represents me](./undraw.png)
-
 <h1 align="center">✨ Hi 👋, I'm Amanda ✨ </h1>
 <h3 align="center">A newbie front end developer, passionate about coding beautiful UIs</h3>
 
