@@ -1,13 +1,11 @@
 <h1 align="center">✨ Hi 👋, I'm Amanda ✨ </h1>
-<h3 align="center">A newbie front end developer, passionate about coding beautiful UIs</h3>
+<h3 align="center">A front end developer, passionate about coding awesome UIs</h3>
 
 😄  Pronouns: ela/dela she/her
 
-🌱  I’m currently learning **React Universe and CSS things**
+🌱  I’m currently learning **how to be a better developer and maybe a leader**
 
-📫  How to reach me **amanda.brbz@hotmail.com**
-
-📄  Know about my experiences [https://linkedin.com/in/amandabrbz](https://linkedin.com/in/amandabrbz)
+📄  Get to know about my experiences [https://linkedin.com/in/amandabrbz](https://linkedin.com/in/amandabrbz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
